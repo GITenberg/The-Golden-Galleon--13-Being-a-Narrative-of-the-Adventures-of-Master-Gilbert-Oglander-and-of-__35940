@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '3054'
     url: http://www.gutenberg.org/2009/agents/3054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35940#The-Golden-Galleon--13-Being-a-Narrative-of-the-Adventures-of-Master-Gilbert-Oglander-and-of-_
 gutenberg_issued: '2011-04-23'
 gutenberg_type: Text
 identifiers:
